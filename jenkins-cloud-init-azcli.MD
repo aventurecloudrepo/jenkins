@@ -151,5 +151,12 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 #### Using the IP address, open the following URL in a browser: **http://<ip_address>:8080**
+
+
 **Follow the steps to complete Jenkins setup:**
+
 ![1](https://github.com/aventurecloudrepo/jenkins/blob/main/images/Jenkins1.png)
+![2](https://github.com/aventurecloudrepo/jenkins/blob/main/images/Jenkins2.png)
+![3](https://github.com/aventurecloudrepo/jenkins/blob/main/images/Jenkins3.png)
+![4](https://github.com/aventurecloudrepo/jenkins/blob/main/images/Jenkins4.png)
+![5](https://github.com/aventurecloudrepo/jenkins/blob/main/images/Jenkins5.png)
