@@ -1,5 +1,6 @@
 This document is an intellectual property of Aventure Cloud LLC, Grand Rapids, Michigan, USA and restricts the distribution by whatsoever means like print, electronic media etc., The document usage is restricted to certain persons given access via Google Classroom of Aventure Cloud LLC and prevent unauthorized access and usage, failing which they will be prosecuted in federal court by the U.S. Attorney’s Office.
 
+<style>H2{color:DarkOrange;}</style>
 #### Install AZ CLI module if not already installed
 
 Windows
